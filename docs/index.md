@@ -1,5 +1,3 @@
-# Adémar
-
 Average software engineer.
 
 My current interests are photo/cinematography, crossfit and cooking.
