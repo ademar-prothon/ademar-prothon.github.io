@@ -1,6 +1,7 @@
 # Adémar
 
-Average software engineer
+Average software engineer.
+
 My current interests are photo/cinematography, crossfit and cooking.
 
 - [Linkedin](https://www.linkedin.com/in/ademar-prothon/)
