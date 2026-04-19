@@ -1,6 +1,6 @@
 ---
 description:
-keywords: [Street, Casablanca, Peoples, Smile]
+keywords: [Travel, Casablanca]
 title: We casa love
 weight: 1
 menus: "Casablanca"
