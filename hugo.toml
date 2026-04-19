@@ -1,4 +1,4 @@
-baseURL = 'https://portfolio.ademar.ca/'
+baseURL = 'https://ademar.ca/'
 languageCode = 'en-us'
 title = ''
 [module]
@@ -7,3 +7,6 @@ title = ''
 [params]
   [params.socialIcons]
     instagram = "https://www.instagram.com/ademar.wh"
+[imaging]
+  compression = 'lossy'
+  quality = 100
